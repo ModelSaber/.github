@@ -26,17 +26,3 @@ This project has taken effect as the official ModelSaber v3 and has been taken i
 
 ![CodeQL](https://github.com/ModelSaber/ModelSaber/actions/workflows/codeql-analysis.yml/badge.svg)
 ![Build Models Nuget Package](https://github.com/ModelSaber/ModelSaber/actions/workflows/build-package.yml/badge.svg)
-### [ModelSaber.Main](https://github.com/ModelSaber/ModelSaber.Main)
-![GitHub](https://img.shields.io/github/license/ModelSaber/ModelSaber.Main)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ModelSaber/ModelSaber.Main)
-![GitHub issues](https://img.shields.io/github/issues/ModelSaber/ModelSaber.Main)
-
-![CodeQL](https://github.com/ModelSaber/ModelSaber.Main/actions/workflows/codeql.yml/badge.svg?branch=master)
-![Build](https://github.com/ModelSaber/ModelSaber.Main/actions/workflows/build.yml/badge.svg?branch=master)
-### [ModelSaber.API](https://github.com/ModelSaber/ModelSaber.API)
-![GitHub](https://img.shields.io/github/license/ModelSaber/ModelSaber.API)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ModelSaber/ModelSaber.API)
-![GitHub issues](https://img.shields.io/github/issues/ModelSaber/ModelSaber.API)
-
-![CodeQL](https://github.com/ModelSaber/ModelSaber.API/actions/workflows/codeql.yml/badge.svg?branch=master)
-![Build](https://github.com/ModelSaber/ModelSaber.API/actions/workflows/build.yml/badge.svg?branch=master)
